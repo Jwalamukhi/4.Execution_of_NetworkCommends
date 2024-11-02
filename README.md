@@ -42,11 +42,9 @@ TRACERT
 
 ![TRACERT](https://github.com/user-attachments/assets/20b2c9af-654c-426e-a913-cba27cdae91f)
 
-
 FTP
 
 ![ftpp](https://github.com/user-attachments/assets/17ba78a8-1009-425b-a57f-846bc4a4056f)
-
 
 
 ARP
@@ -54,22 +52,17 @@ ARP
 ![arp](https://github.com/user-attachments/assets/5b1278f0-d11e-4cb4-b2e8-03cd7f0cc779)
 
 
-
 GETMAC
 
 ![getmac](https://github.com/user-attachments/assets/192b1a00-0bd0-44fd-aaa4-2a76500adc11)
-
-
 
 NSLOOKUP
 
 ![nslookup](https://github.com/user-attachments/assets/4e544469-f556-40a8-a293-0a950cd46832)
 
-
 PING
 
 ![ping](https://github.com/user-attachments/assets/3536801b-c826-413d-a23d-e6c263933abe)
-
 
 SYSTEMINFO
 
